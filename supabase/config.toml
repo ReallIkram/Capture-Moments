@@ -1,0 +1,2 @@
+[functions.record-visit]
+verify_jwt = false
